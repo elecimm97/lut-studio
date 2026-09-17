@@ -1,0 +1,4 @@
+# Shinylive uses the compatible versions bundled with Pyodide.
+shiny
+Pillow
+numpy
